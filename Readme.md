@@ -18,7 +18,7 @@ N/A
 Windows:
 
 ```sh
-edit autoexec.bat
+N/A
 ```
 ## Release History
 

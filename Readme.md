@@ -30,11 +30,11 @@ N/A
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Primestudios – [@primestudios121](https://twitter.com/primestudios121) – YourEmail@example.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the Apache License 2.0 license. See [``LICENSE``](https://github.com/HawkSP/HawkSP.github.io/blob/master/LICENSE) for more information.
 
-[https://github.com/HawkSP/github-link](https://github.com/dbader/)
+[https://github.com/HawkSP/HawkSP.github.io/blob/master/LICENSE](https://github.com/HawkSP/HawkSP.github.io/blob/master/LICENSE)
 
 <!-- Markdown link -->
 

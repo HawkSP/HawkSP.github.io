@@ -7,4 +7,4 @@ before_install:
 python:
  - "2.7.14"
 
-script: ./run_build.sh
+script: /run_build.sh

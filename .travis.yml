@@ -16,4 +16,9 @@ before_install:
   - export PATH="$HOME/.yarn/bin:$PATH"
   cache:
   yarn: true
+language: ruby
+rvm:
+  - 2.2
+  - jruby
+  - 2.0.0-p247
 },

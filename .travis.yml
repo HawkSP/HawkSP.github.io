@@ -1,5 +1,5 @@
-before_install:
- - sudo apt-get update -qq
-
-python:
- - "2.7"
+language: ruby
+rvm:
+  - 2.2
+  - jruby
+  - 2.0.0-p247

@@ -8,7 +8,7 @@
  function frame2(){
   if(loading2 === 100) {
    clearInterval(id2);
-   window.open("welcome2.html", "_self");
+   window.open("newelcome.html", "_self");
   }
   else {
    loading2 = loading2 + 1;

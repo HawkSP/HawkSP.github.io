@@ -1,3 +1,5 @@
+language: generic
+script: bash ./deploy.sh
 deploy:
   provider: pages
   skip-cleanup: true

@@ -21,7 +21,21 @@ Windows:
 N/A
 ```
 ## Release History
-
+* 0.1.4.4
+    * REMOVE: Getting Rid of Travis Temp
+    * ADD: Adding Google Analytics
+    * ADD: Adding New and Updated animation
+    * ADD: Added Meta Description Tag
+* 0.1.4.1
+    * Update .travis.yml
+* 0.1.4.0 
+    * ADD: newminigamensake.html
+    * ADD: newstyle.css
+    * ADD: image1.5.png
+    * ADD: image2.5.png
+    * ADD: image3.5.png
+    * CHANGE: hrefs of files
+    * CHANGE: background pictures
 * 0.1.3.8
     * ADD: Adding HTML, CSS and JS files
     * ADD: Adding Comments into the files

@@ -44,7 +44,7 @@ N/A
 
 ## Meta
 
-Primestudios – [@primestudios121](https://twitter.com/primestudios121) – YourEmail@example.com
+Primestudios – [@primestudios121](https://twitter.com/primestudios121) – primestudios1234@gmail.com
 
 Distributed under the Apache License 2.0 license. See [``LICENSE``](https://github.com/HawkSP/HawkSP.github.io/blob/master/LICENSE) for more information.
 

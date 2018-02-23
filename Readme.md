@@ -21,25 +21,43 @@ Windows:
 N/A
 ```
 ## Release History
+* 0.1.4.7-alpha
+    ### ADDS
+     * Adding New and Updated animation for Try Surfing
+     * Added Meta Description Tag
+     * Adding New Releases to Readme.md
+     * Adding email account to Readme.md
+     * Adding SurfIcon
+
+    ### CHANGES
+     * Updating License
 * 0.1.4.4
-    * REMOVE: Getting Rid of Travis Temp
-    * ADD: Adding Google Analytics
-    * ADD: Adding New and Updated animation
-    * ADD: Added Meta Description Tag
+     ### ADDS
+     * ADD: Adding Google Analytics
+     * ADD: Adding New and Updated animation
+     * ADD: Added Meta Description Tag
+     
+     ### REMOVES
+     * REMOVE: Getting Rid of Travis Temp
 * 0.1.4.1
+    ### UPDATES
     * Update .travis.yml
 * 0.1.4.0 
+    ### ADDS
     * ADD: newminigamensake.html
     * ADD: newstyle.css
     * ADD: image1.5.png
     * ADD: image2.5.png
     * ADD: image3.5.png
+    ### CHANGES
     * CHANGE: hrefs of files
     * CHANGE: background pictures
 * 0.1.3.8
+    ### ADDS
     * ADD: Adding HTML, CSS and JS files
     * ADD: Adding Comments into the files
 * 0.0.1
+    ### UPDATES
     * Work in progress
 
 ## Meta

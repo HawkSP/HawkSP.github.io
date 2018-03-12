@@ -7,7 +7,9 @@ This is a project page for the projects I have completed using HTML/CSS/JS/SHELL
   a company that specialises in water themed activities for young adults and the scenario is: I have to make a Web Brouchure for them
 
 To get to this page use this link: [primestudios.me](http://www.primestudios.me)
-
+## What is PRIME Studios
+ * PRIME Studios is my personal Development group consisting of developers, designers and graphical designers
+ * Want to join? If you would like to enquire: [https://primestudios.slack.com](https://primestudios.slack.com) (Contact me if you would like to join)
 ## How to Navigate this Repo
 
 There are two versions of this Repo one being the Main "Prime Studios" page then into the "Splash Out!" page

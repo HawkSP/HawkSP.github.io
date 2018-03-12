@@ -1,7 +1,26 @@
 # Primestudios.me 
 
-This is a project page for the projects I have completed 
+## Context to this GitHub
+This is a project page for the projects I have completed using HTML/CSS/JS/SHELL 
 
+* My first project that is currently on show is "Splash Out!". This project was made for my CIDA ICT Coursework and is 
+  a company that specialises in water themed activities for young adults and the scenario is: I have to make a Web Brouchure for them
+
+To get to this page use this link: [primestudios.me](http://www.primestudios.me)
+
+## How to Navigate this Repo
+
+There are two versions of this Repo one being the Main "Prime Studios" page then into the "Splash Out!" page
+### Prime Studios
+* [Main Index](https://github.com/HawkSP/HawkSP.github.io/blob/master/newindex.html)
+* [Home](https://github.com/HawkSP/HawkSP.github.io/blob/master/newindex.html)
+* [Welcome](https://github.com/HawkSP/HawkSP.github.io/blob/master/newelcome.html)
+* All the rest of the pages are located within the different Pages but can be found with the prefix "new"
+### Splash Out!
+* [Main Index](https://github.com/HawkSP/HawkSP.github.io/blob/master/index.html)
+* [Home](https://github.com/HawkSP/HawkSP.github.io/blob/master/home.html)
+* [Welcome](https://github.com/HawkSP/HawkSP.github.io/blob/master/welcome.html)
+* All the rest of the pages are located within the different Pages but can be found with no prefix of "new"
 
 >This is the first project using HTML, CSS and JS called "Splash-Out", which 
  was from my IT Coursework
@@ -12,14 +31,12 @@ This is a project page for the projects I have completed
 
 OS X & Linux:
 
-```sh
-N/A
-```
+[0.1.4.8](https://drive.google.com/uc?export=download&id=1eOBVcvu49iQLo_v3vCc1c-7ZvMYIeguz)
+
 Windows:
 
-```sh
-N/A
-```
+[0.1.4.8](https://drive.google.com/uc?export=download&id=1eOBVcvu49iQLo_v3vCc1c-7ZvMYIeguz)
+
 ## Release History
 * 0.1.4.7-alpha
     ### ADDS

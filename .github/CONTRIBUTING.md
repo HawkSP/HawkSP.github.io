@@ -10,4 +10,4 @@ Before creating any new Issues, please be sure to search through the existing Pr
 4. Submit your new GitHub Issue and wait patiently. 
 If you have any additional / new information to add, please feel free to comment on that Issue and provide more helpful information.
 
-## Help Improving Atom Beautify By Changing Source Code
+## Help Improving Prime Studios By Changing Source Code

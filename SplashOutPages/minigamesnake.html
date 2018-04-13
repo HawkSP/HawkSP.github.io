@@ -1,161 +1,51 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Snake Game Prime</title>
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+<html lang="en">
+<script type="text/javascript" src="https://js.taplytics.com/jssdk/c2a07af4dfa94e32a017e50d067b8dbb.min.js"></script>
+<head>
+    <meta name="PrimeStudios" content="Elliott Mitchell" />
+    <meta name="Activities Movie" content="1" />
+        <meta name=”description” content=”This is the E-Portfolio of Elliott Mitchell and includes all the content from my I.T Coursework and other projects I have been working on. P.R.I.M.E Studios”>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113304965-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-113304965-1');
+    </script>
     <style>
+        .video {
+              text-align: center;
+              width:100%;
+        }
+        .iframe {
+            align-content: center;
+        }
+        .top-page{
+            margin-bottom: 30px;
+        }
         .background {
             width: 100%;
             height: 100%;
-            background: rgb(67, 170, 165);
+            background: rgb(0, 113, 107);
             position: fixed;
             top: 0;
             left: 0;
             z-index: -1;
         }
 
-        .snakegame {
-            padding-left: 50px;
-            margin: auto;
-            display: block;
-            width: 600px;
-            height: 600px;
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-
-        }
-
-        #title {
-            text-align: center;
-            font-family: "Ubuntu";
-            padding-bottom: 20px;
-            font-size: 26px;
-        }
-
-        #nav {
-            text-decoration: none;
-            color: rgb(0, 0, 0);
-
-        }
-
-        a:link {
-            text-decoration: none;
-            color: rgb(0, 0, 0);
-        }
-
-        a:visited {
-            text-decoration: none;
-            color: rgb(0, 0, 0);
-        }
-
-        #logo {
-            color: aliceblue;
-        }
-
-        body {
-            font-family: "Ubuntu";
-        }
-
-        /* naviagation menu*/
-
-        .overlay {
-
-            height: 100%;
-            width: 0%;
-            position: fixed;
-            z-index: 1;
-            left: 0;
-            top: 0;
-            background-color: rgb(0, 0, 0);
-            background-color: rgba(0, 0, 0, 0.9);
-            overflow-x: hidden;
-        }
-
-
-        .overlay-content {
-            position: relative;
-            top: 25%;
-            width: 100%;
-            text-align: center;
-            margin-top: 30px;
-        }
-
-
-        .overlay a {
-            padding: 8px;
-            text-decoration: none;
-            font-size: 36px;
-            color: #818181;
-            display: block;
-            transition: 0.3s;
-        }
-
-
-        .overlay a:hover,
-        .overlay a:focus {
-            color: #f1f1f1;
-        }
-
-
-        .overlay .closebtn {
-            position: absolute;
-            top: 20px;
-            right: 45px;
-            font-size: 60px;
-        }
-
-        @media screen and (max-height: 450px) {
-            .overlay a {
-                font-size: 20px
-            }
-            .overlay .closebtn {
-                font-size: 40px;
-                top: 15px;
-                right: 35px;
-            }
-        }
     </style>
-
-</head>
-
+    </head>    
 <body>
-    <div id="nav" class="overlay">
-
-        <a href="#" class="closebtn" onclick="closeNav()">&times</a>
-
-        <div class="overlay-content">
-
-            <a href="SplashOutPages/activitesmovie.html">Activites Movie</a>
-            <a href="SplashOutPages/trysurfing.html">Try Surfing</a>
-            <a href="SplashOutPages/newthisyear.html">New This Year</a>
-            <a href="SplashOutPages/findoutmore.html">Find Out More</a>
-            <a href="SplashOutPages/minigamesnake.html">Mini Game</a>
-        </div>
+    <div class="top-page">
+     <img href="index.html" alt="This is the SplashOut Logo" width="200" height="200" style="text-align: center; display: block; margin: 0 auto;" src="Images/SplashOutLogo.png">
     </div>
-    <a href="#" class="openbtn" onclick="openNav()" style="text-align: left;padding-left: -100px;">&#9776; open nav</a>
-
-    <script src="SplashOutScripts/JS/nav.js"></script>
-    <div class="main">
-        <div id="title">Welcome to the Snake Game Minigame!!</div>
-        <div class="snakegame">
-            <script language="javascript" type="text/javascript" src="SplashOutScripts/JS/p5/p5.js"></script>
-            <script language="javascript" src="SplashOutScripts/JS/p5/p5.dom.js"></script>
-            <script language="javascript" src="SplashOutScripts/JS/p5/p5.sound.js"></script>
-            <script language="javascript" type="text/javascript" src="SplashOutScripts/JS/p5/sketch.js"></script>
-            <script language="javascript" type="text/javascript" src="SplashOutScripts/JS/p5/snake.js"></script>
-            <!-- this line removes any default padding and style. you might only need one of these values set. -->
-            <style>
-                body {
-                    margin: 0px;
-                    padding-left: 100px;
-                }
-            </style>
+    <div class="video" style="align-content: center;display: block;">
+        <iframe width="640" height="360" align="middle"
+        src="https://www.youtube.com/embed/-3my68V3zhU?autoplay=1&loop=1&playlist=-3my68V3zhU&rel=0&controls=0&modestbranding=1&showinfo=0"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+        </iframe>
         </div>
-        <div class="background"></div>
-    </div>
+            <div class="background"></div>
 </body>
 </html>

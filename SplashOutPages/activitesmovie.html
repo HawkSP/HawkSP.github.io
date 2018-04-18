@@ -1,51 +1,132 @@
 <!DOCTYPE html>
-<html lang="en">
-<script type="text/javascript" src="https://js.taplytics.com/jssdk/c2a07af4dfa94e32a017e50d067b8dbb.min.js"></script>
+<html>
 <head>
-    <meta name="PrimeStudios" content="Elliott Mitchell" />
-    <meta name="Activities Movie" content="1" />
-        <meta name=”description” content=”This is the E-Portfolio of Elliott Mitchell and includes all the content from my I.T Coursework and other projects I have been working on. P.R.I.M.E Studios”>
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113304965-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-113304965-1');
-    </script>
-    <style>
-        .video {
-              text-align: center;
-              width:100%;
-        }
-        .iframe {
-            align-content: center;
-        }
-        .top-page{
-            margin-bottom: 30px;
-        }
-        .background {
-            width: 100%;
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+    <link rel="stylesheet" type="text/css" href="fontawesome/css/font-awesome.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>#ageConfirm, #guidanceFooter { display: none !important; }</style><style>ytd-live-chat-frame#chat { display: none; }</style><style>#watch-discussion, #watch7-discussion, ytd-comments { display: none; }</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+  <title>Page Info</title>
+  
+  <style>
+  
+* {box-sizing: border-box}
+body,
+html
+  {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu";
+  }
+.container {
+  width: 100%;
+  background-color: #dee5ff;
+  color: #dee5ff;
+}
+.background {
+   width: 100%;
+   height: 100%;
+   background: rgb(51,51,51);
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: -1;
+   }
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+         /* naviagation menu*/
+        .overlay {
             height: 100%;
-            background: rgb(0, 113, 107);
+            width: 0%;
             position: fixed;
-            top: 0;
+            z-index: 1;
             left: 0;
-            z-index: -1;
+            top: 0;
+            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.9);
+            overflow-x: hidden;
         }
-
-    </style>
-    </head>    
+        .overlay-content {
+            position: relative;
+            top: 25%;
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .overlay a {
+            padding: 8px;
+            text-decoration: none;
+            font-size: 36px;
+            color: #818181;
+            display: block;
+            transition: 0.3s;
+        }
+        .overlay a:hover,
+        .overlay a:focus {
+            color: #f1f1f1;
+        }
+        .overlay .closebtn {
+            position: absolute;
+            top: 20px;
+            right: 45px;
+            font-size: 60px;
+        }
+        @media screen and (max-height: 450px) {
+            .overlay a {
+                font-size: 20px
+            }
+            .overlay .closebtn {
+                font-size: 40px;
+                top: 15px;
+                right: 35px;
+            }
+        }
+.html {width: 2.8%; background-color: #4CAF50;}
+.css {width: 1.8%; background-color: #2196F3;}
+.js {width: 95.4%; background-color: #f44336;}
+</style>
+</head>
 <body>
-    <div class="top-page">
-     <img href="index.html" alt="This is the SplashOut Logo" width="200" height="200" style="text-align: center; display: block; margin: 0 auto;" src="Images/SplashOutLogo.png">
-    </div>
-    <div class="video" style="align-content: center;display: block;">
-        <iframe width="640" height="360" align="middle"
-        src="https://www.youtube.com/embed/-3my68V3zhU?autoplay=1&loop=1&playlist=-3my68V3zhU&rel=0&controls=0&modestbranding=1&showinfo=0"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-        </iframe>
+    
+            <div id="nav" class="overlay">
+
+        <a href="#" class="closebtn" onclick="closeNav()">&times</a>
+
+        <div class="overlay-content">
+            <!-- Navigation Screen Objects -->
+            <a href="activitesmovie.html">Activites Movie</a>
+            <a href="trysurfing.html">Try Surfing</a>
+            <a href="newthisyear.html">New This Year</a>
+            <a href="findoutmore.html">Find Out More</a>
+            <a href="pageinfo.html">Page Info</a>
+            <a href="minigamesnake.html">Mini Game</a>
+
         </div>
-            <div class="background"></div>
+    </div>
+    <a href="#" class="openbtn" onclick="openNav()">&#9776; open nav</a>
+  <div class="background"></div>
+<h1>Page Language Content</h1>
+
+<p>HTML</p>
+<div class="container">
+  <div class="skills html">2.8%</div>
+</div>
+
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">1.8%</div>
+</div>
+
+<p>JavaScript</p>
+<div class="container">
+  <div class="skills js">95.4%</div>
+</div>
+
 </body>
 </html>

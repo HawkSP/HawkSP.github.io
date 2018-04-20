@@ -134,11 +134,23 @@
                 transform: scale(1.0);
             }
         }
+        /* Hiding the audio within the page */
+        audio {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            z-index: -1;
+        }
     </style>
 </head>
 <title>SplashOut</title>
 
 <body>
+
+<audio controls autoplay loop>
+  <source src="SplashNoise.mp3" type="audio/mpeg">
+</audio>
+
     <h1 class="welcome">Welcome</h1>
     <h2 class="waitingforuser">To Proceed Click Continue</h2>
     <div class="background"></div>

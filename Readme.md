@@ -1,6 +1,7 @@
 # Primestudios.me 
-
+---
 ## Context to this GitHub
+---
 This is a project page for the projects I have completed using HTML/CSS/JS/SHELL 
 
 * My first project that is currently on show is "Splash Out!". This project was made for my CIDA ICT Coursework and is 
@@ -8,17 +9,21 @@ This is a project page for the projects I have completed using HTML/CSS/JS/SHELL
 
 To get to this page use this link: [primestudios.me](http://www.primestudios.me)
 ## What is PRIME Studios
+---
  * PRIME Studios is my personal Development group consisting of developers, designers and graphical designers
  * Want to join? If you would like to enquire: [https://primestudios.slack.com](https://primestudios.slack.com) (Contact me if you would like to join)
 ## How to Navigate this Repo
+---
 
 There are two versions of this Repo one being the Main "Prime Studios" page then into the "Splash Out!" page
 ### Prime Studios
+---
 * [Main Index](https://github.com/HawkSP/HawkSP.github.io/blob/master/newindex.html)
 * [Home](https://github.com/HawkSP/HawkSP.github.io/blob/master/newindex.html)
 * [Welcome](https://github.com/HawkSP/HawkSP.github.io/blob/master/newelcome.html)
 * All the rest of the pages are located within the different Pages but can be found with the prefix "new"
 ### Splash Out!
+---
 * [Main Index](https://github.com/HawkSP/HawkSP.github.io/blob/master/index.html)
 * [Home](https://github.com/HawkSP/HawkSP.github.io/blob/master/home.html)
 * [Welcome](https://github.com/HawkSP/HawkSP.github.io/blob/master/welcome.html)
@@ -30,6 +35,7 @@ There are two versions of this Repo one being the Main "Prime Studios" page then
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Images/readme.md/Example%20Images/SplashOutExample.PNG "Logo Title Text 1")
 
 ## Installation
+---
 
 OS X & Linux:
 
@@ -40,6 +46,7 @@ Windows:
 [0.1.4.8](https://drive.google.com/uc?export=download&id=1eOBVcvu49iQLo_v3vCc1c-7ZvMYIeguz)
 
 ## Release History
+---
 * 0.1.4.7-alpha
     ### ADDS
      * Adding New and Updated animation for Try Surfing
@@ -80,6 +87,7 @@ Windows:
     * Work in progress
 
 ## Meta
+---
 
 Primestudios – [@primestudios121](https://twitter.com/primestudios121) – primestudios1234@gmail.com
 
@@ -89,3 +97,57 @@ Distributed under the Apache License 2.0 license. See [``LICENSE``](https://gith
 
 <!-- Markdown link -->
 
+# Evalution of the Splash Out Project
+---
+
+# 1.1
+---
+### **Ethos**
+My **ethos**, strategic philosophy and direction revolves around the fact 
+of productiivity and the whole framework of this project derives upon 
+hard work and perseverance and alot of creative and logical input.
+# 1.2
+---
+### **Introduction**
+This evaluation provides evaluted infomaton obtained by the creator Elliott Mitchell of the Splash Out Project
+regarding the sections **_Splash Screen_**,  **_Welcome Screen_**,  **_Home Screen_**,  **_Navigation Screen_**,  **_Activities Movie_**,
+ **_Try Surfing_**,  **_New This Year_** and  **_Find Out More_**. This evalutaion will pay 
+ particular attention to the quality of the pages and the functionality of each.
+ The evaluation will comment on the behaviour of each section too and they will provide the way of creation
+ and the contents reasoning.
+# 1.3
+---
+### **Start-Up**
+As you will load into the website you will be immediately recorded on **_Google Analytics_** for improved and more accurate
+repersentations of **_traffic_** and **_retention_** on the webpage, which will improve the quaility of the webpage because I can see the response to changes for example this is the traffic for this year: 
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/ActiveUsers.PNG?raw=true "Active Users From This Year")
+
+You will be then granted with first:
+* Splash Screen
+* Welcome Screen
+
+## 1.3.25
+---
+#### **Splash Screen**
+The Splash Screen is a graphical control element consisting of a window containing an image, a logo and in this case an animated 
+spinning circles. These are typicall found on launching a program take netflix for example:
+
+[![](https://github.com/HawkSP/HawkSP.github.io/blob/master/NetflixSplashScreen.PNG?raw=true)](http://www.youtube.com/watch?v=NN1jB5UZ650 "Netflix Splash Screen")
+## 1.3.75
+---
+##### **Welcome Screen** 
+# 1.4
+---
+### **Navigation Screen**
+# 1.5
+---
+### **Activities Movie**
+# 1.6
+---
+### **Try Surfing**
+# 1.7
+---
+### **New This Year**
+# 1.8
+---
+### **Find Out More**

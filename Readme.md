@@ -136,6 +136,15 @@ spinning circles. These are typicall found on launching a program take netflix f
 ## 1.3.75
 ---
 ##### **Welcome Screen** 
+The Welcome screen consists of 5 elements the first being the "Welcome" with a back shadow in the house style font of Splash Out the
+next is the "To The Splash Out Page", which presents people to what they are viewing. The next "To Proceed Click Continue", which
+prompts the user to click continue to the "Home page" but in a more greener font. The 4th element is the button "Continue": this
+will directly lead to the "Home Page" with a "href" to home.html this button has a css and javascript glow on it which will 
+hint to the user to click the button. Underneath the button there will be 3 circles that are on a loop to keep enlarging
+and decreasing in size (using webkit).
+
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/welcomescreen.PNG?raw=true "Welcome Screen Image")
+
 # 1.4
 ---
 ### **Navigation Screen**

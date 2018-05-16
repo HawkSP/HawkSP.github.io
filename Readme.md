@@ -297,7 +297,10 @@ and decreasing in size (using WebKit).
 
 ### **Navigation Screen**
 
-The Navigation screen 
+The Navigation screen is intergrated into every page and can be accessed with the "Open Nav Button" ("☰ open nav")  
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/OpenNav.png?raw=true "Open Nav Button")
+
+The Navigation Screen is made from Java Script and CSS to make a professional looking navigation screen. When clicked on a page it will redirect you to that page using scripts and html
 
 # 1.5
 

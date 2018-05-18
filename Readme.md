@@ -207,9 +207,9 @@ Distributed under the Apache License 2.0 license. See [``LICENSE``](https://gith
 
 ### **Ethos**
 
-My **ethos**, strategic philosophy and direction revolves around the fact 
+My **_Ethos_**, strategic philosophy and direction revolves around the fact 
 
-of productivity and the whole framework of this project derives upon 
+of **_Productivity_** and the whole **_Framework_** of this project derives upon 
 
 hard work and perseverance and a lot of creative and logical input.
 
@@ -239,7 +239,7 @@ about the sections **_Splash Screen_**,  **_Welcome Screen_**,  **_Home Screen_*
 
 As you will load into the website you will be immediately recorded on **_Google Analytics_** for improved and more accurate
 
-representations of **_traffic_** and **_retention_** on the webpage, which will improve the quality of the webpage because I can see the response to changes, for example, this is the traffic for this year: 
+representations of **_Traffic_** and **_Retention_** on the webpage, which will improve the quality of the webpage because I can see the response to changes, for example, this is the traffic for this year: 
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/ActiveUsers.PNG?raw=true "Active Users From This Year")
 
@@ -261,7 +261,7 @@ You will be then granted with first:
 
 The Splash Screen is a graphical control element consisting of a window containing an image, a logo and in this case an animated 
 
-spinning circles. These are typically found on launching a program take Netflix such as:
+spinning circles. These are typically found on launching a program take **_Netflix_** such as:
 
 
 
@@ -279,7 +279,7 @@ next is the "To The Splash Out Page", which presents people to what they are vie
 
 prompts the user to click continue to the "Homepage" but in a greener font. The 4th element is the button "Continue": this
 
-will directly lead to the "Home Page" with a "href" to home.html this button has a CSS and javascript glow on it which will 
+will directly lead to the "Home Page" with a "href" to home.html this button has a **_CSS_** and **_Javascript_** glow on it which will 
 
 hint to the user to click the button. Underneath the button, there will be 3 circles that are in a loop to keep enlarging
 
@@ -300,13 +300,15 @@ and decreasing in size (using WebKit).
 The Navigation screen is intergrated into every page and can be accessed with the "Open Nav Button" ("☰ open nav")  
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/OpenNav.png?raw=true "Open Nav Button")
 
-The Navigation Screen is made from Java Script and CSS to make a professional looking navigation screen. When clicked on a page it will redirect you to that page using scripts and html
+The Navigation Screen is made from **_Java Script_** and **_CSS_** to make a professional looking **_Navigation Screen_**. When clicked on a page it will redirect you to that page using scripts and **_HTML_**. I made it as an overlay instead of a page because I wanted to make it **_Quicker_** loading times instead of being redirected to another page, which will reduce **_Retention Times_** due to if they have slow computers or internet as well I wanted to create an effect where you will be able to see the page in the background so it feels more like a website that is developed well. I have also added on the home page links to **Activites Movie**, **Try Surfing**, **New This Year**, **Find Out More**, **Page Info** and **FAQs** 
 
 # 1.5
 
 ---
 
 ### **Activities Movie**
+
+
 
 # 1.6
 

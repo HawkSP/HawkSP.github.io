@@ -312,7 +312,7 @@ The activities movie was made in VEGAS Pro 15 Suite
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-screenshot-int.jpg?raw=true "VEGAS Pro 15")
 VEGAS Pro 15 Suite can work with low-resolution audio or pristine 24-bit, 192kHz high-resolution audio and everything in between
 mono, stereo, or 5.1 surround sound. Also you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
-These helped me in my development as they helped with the video due to its use of effect I could use.
+These helped me in my development as they helped with the video due to its use of effect I could use. My options were also to use after Effects from adobe or DaVinci Resolve but I am not as skilled in them but I am in Sony Vegas.
 
 # Boris FX
 The Sapphire Render Unit enhances your work with the highest-quality textures, gradients, cloud, sky, and lighting effects.
@@ -334,6 +334,8 @@ NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the d
 ---
 
 ### **Try Surfing**
+
+
 
 # 1.7
 

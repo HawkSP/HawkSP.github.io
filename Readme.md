@@ -314,6 +314,14 @@ VEGAS Pro 15 Suite can work with low-resolution audio or pristine 24-bit, 192kHz
 mono, stereo, or 5.1 surround sound. Also you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
 These helped me in my development as they helped with the video due to its use of effect I could use.
 [![](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-boris-fx-int.jpg?raw=true)](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/15/video/en/boris-fx-sapphire-render-unit-vegaspro15-int.mp4)
+# Boris FX
+The Sapphire Render Unit enhances your work with the highest-quality textures, gradients, cloud, sky, and lighting effects.
+[![](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-hitfilm-int.jpg?raw=true)](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/15/video/en/hitfilm-movie-essentials-vegaspro15-int.mp4)
+# HitFilm
+HitFilm Movie Essentials provides essential tools for video repair and enhancement. Create a cinematic appearance, fix grainy video, or generate special effects.
+[![](https://github.com/HawkSP/HawkSP.github.io/blob/master/+.jpg?raw=true)](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/15/video/en/newblue-fx-filters-5-ultimate-vegaspro15-int.mp4)
+# NewBlueFX
+NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the drama, clarify the colors, or bring out the richness of your production.
 # 1.6
 
 ---

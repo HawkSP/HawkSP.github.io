@@ -309,7 +309,7 @@ The Navigation Screen is made from **_Java Script_** and **_CSS_** to make a pro
 ### **Activities Movie**
 
 The activities movie was made in VEGAS Pro 15 Suite 
-![alt text]https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-screenshot-int.jpg?raw=true "VEGAS Pro 15")
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-screenshot-int.jpg?raw=true "VEGAS Pro 15")
 VEGAS Pro 15 Suite can work with low-resolution audio or pristine 24-bit, 192kHz high-resolution audio and everything in between
 mono, stereo, or 5.1 surround sound. Also you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
 These helped me in my development as they helped with the video due to its use of effect I could use.

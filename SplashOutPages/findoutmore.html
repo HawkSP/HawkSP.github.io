@@ -173,16 +173,19 @@
     <a href="newthisyear.html">Rafting</a>
   </div>
         <p>Leave us a note:</p>
-        <form action="/action_page.php" target="_blank">
+        <form action="/action_page.php" method="post">
             <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
                 <div class="w3-half">
-                    <input class="w3-input w3-border" style="margin-left: 10px;" type="text" placeholder="Name" required name="Name">
+                    Name: <input class="w3-input w3-border" style="margin-left: 10px;" type="text" placeholder="Name" required name="Name"><br>
+
                 </div>
                 <div class="w3-half">
-                    <input class="w3-input w3-border" style="margin-left: 10px;" type="text" placeholder="Email" required name="Email">
+                    Email: <input class="w3-input w3-border" style="margin-left: 10px;" type="text" placeholder="Email" required name="Email"><br>
+
                 </div>
             </div>
-            <input class="w3-input w3-border" type="text" style="margin-left: 10px;" placeholder="Message" required name="Message">
+            Message: <input class="w3-input w3-border" type="text" style="margin-left: 10px;" placeholder="Message" required name="Message"><br>
+
             <button class="w3-button w3-black w3-right w3-section" type="submit">
           <i class="fa fa-paper-plane"></i> Send Message
         </button>

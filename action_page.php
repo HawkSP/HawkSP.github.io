@@ -4,6 +4,6 @@ echo $Name;
 echo "<br>";
 echo $Email;
 echo "<br>";
-echo $Mebsite;
+echo $Message;
 echo "<br>";
 ?>

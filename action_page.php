@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
  
 if ( isset( $_REQUEST ) && !empty( $_REQUEST ) ) {
@@ -14,3 +16,5 @@ if ( isset( $_REQUEST ) && !empty( $_REQUEST ) ) {
   print 'Not all information was submitted.';
  }
 }
+ </body>
+</html>

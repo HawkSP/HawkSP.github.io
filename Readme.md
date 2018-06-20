@@ -339,7 +339,7 @@ NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the d
 This aniamtion was made using **Google Web Designer** and this software is typically used create engaging, interactive HTML5-based designs and motion graphics that can run on any device,however, I used it to make an animation because it let me focus on design
 and they handled the HTML5 and CSS3 so that I was free to focus on the animations appearance: creating a gorgeous visual experience. As well it let my vision be forged in this program.
 
-![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/GoogleWebDesigner.PNG?raw=true "Google Web Desinger")
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/GoogleWebDesigner.PNG?raw=true "Google Web Designer")
 
 #### **Animation**
 This animation is quite **clunky** with it not flowing as smoothly as I wanted it to be. The animation also used non-original assets within the animation I would have used custom made assets using hand drawing or pixel drawing to make it look better with a more of my own finish upon the animation. My Try Surfing animation was also very static, which displeased me ,however, it would have taken alot of effor to draw out each frame of the Dolphin this made it look very unproffesional but it turned out to what my desires were.
@@ -351,6 +351,8 @@ This animation is quite **clunky** with it not flowing as smoothly as I wanted i
 ---
 
 ### **New This Year**
+
+
 
 # 1.8
 

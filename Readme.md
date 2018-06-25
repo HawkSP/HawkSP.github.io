@@ -352,7 +352,7 @@ This animation is quite **clunky** with it not flowing as smoothly as I wanted i
 
 ### **New This Year**
 
-
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Images/NewThisYearReadmeImages/Examples/Combined/PNG/NewThisYearCombined.png?raw=true "New This Year Flow")
 
 # 1.8
 

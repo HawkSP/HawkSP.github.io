@@ -106,7 +106,7 @@ Windows:
 
      * Adding New Releases to Readme.md
 
-     * Adding email account to Readme.md
+     * Adding an email account to Readme.md
 
      * Adding SurfIcon
 
@@ -311,8 +311,8 @@ The Navigation Screen is made from **_Java Script_** and **_CSS_** to make a pro
 The activities movie was made in VEGAS Pro 15 Suite 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-screenshot-int.jpg?raw=true "VEGAS Pro 15")
 VEGAS Pro 15 Suite can work with low-resolution audio or pristine 24-bit, 192kHz high-resolution audio and everything in between
-mono, stereo, or 5.1 surround sound. Also you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
-These helped me in my development as they helped with the video due to its use of effect I could use. My options were also to use after Effects from adobe or DaVinci Resolve but I am not as skilled in them but I am in Sony Vegas.
+mono, stereo, or 5.1 surround sound. Also, you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
+These helped me in my development as they helped with the video due to its use of effect I could use. My options were also to use after Effects from Adobe or DaVinci Resolve but I am not as skilled in them but I am in Sony Vegas.
 
 # Boris FX
 The Sapphire Render Unit enhances your work with the highest-quality textures, gradients, cloud, sky, and lighting effects.
@@ -325,7 +325,7 @@ HitFilm Movie Essentials provides essential tools for video repair and enhanceme
 [![](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-hitfilm-int.jpg?raw=true)](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/15/video/en/hitfilm-movie-essentials-vegaspro15-int.mp4)
 
 # NewBlueFX
-NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the drama, clarify the colors, or bring out the richness of your production.
+NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the drama, clarify the colours, or bring out the richness of your production.
 
 [![](https://github.com/HawkSP/HawkSP.github.io/blob/master/+.jpg?raw=true)](https://www.vegascreativesoftware.com/fileadmin/user_upload/products/vegas_pro/15/video/en/newblue-fx-filters-5-ultimate-vegaspro15-int.mp4)
 
@@ -336,13 +336,13 @@ NewBlueFX Filters 5 Ultimate modifies your video with plug-ins to increase the d
 ### **Try Surfing**
 
 #### **Program (Google Web Designer)**
-This aniamtion was made using **Google Web Designer** and this software is typically used create engaging, interactive HTML5-based designs and motion graphics that can run on any device,however, I used it to make an animation because it let me focus on design
+This animation was made using **Google Web Designer** and this software is typically used create engaging, interactive HTML5-based designs and motion graphics that can run on any device, however, I used it to make an animation because it let me focus on design
 and they handled the HTML5 and CSS3 so that I was free to focus on the animations appearance: creating a gorgeous visual experience. As well it let my vision be forged in this program.
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/GoogleWebDesigner.PNG?raw=true "Google Web Designer")
 
 #### **Animation**
-This animation is quite **clunky** with it not flowing as smoothly as I wanted it to be. The animation also used non-original assets within the animation I would have used custom made assets using hand drawing or pixel drawing to make it look better with a more of my own finish upon the animation. My Try Surfing animation was also very static, which displeased me ,however, it would have taken alot of effor to draw out each frame of the Dolphin this made it look very unproffesional but it turned out to what my desires were.
+This animation is quite **clunky** with it not flowing as smoothly as I wanted it to be. The animation also used non-original assets within the animation I would have used custom-made assets using hand drawing or pixel drawing to make it look better with a more of my own finish upon the animation. My Try Surfing animation was also very static, which displeased me, however, it would have taken a lot of effort to draw out each frame of the Dolphin this made it look very unprofessional but it turned out to what my desires were.
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/TrySurfingImage.PNG?raw=true "Try Surfing Animation")
 
@@ -351,6 +351,8 @@ This animation is quite **clunky** with it not flowing as smoothly as I wanted i
 ---
 
 ### **New This Year**
+
+
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Images/NewThisYearReadmeImages/Examples/Combined/PNG/NewThisYearCombined.png?raw=true "New This Year Flow")
 

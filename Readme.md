@@ -344,12 +344,17 @@ and they handled the HTML5 and CSS3 so that I was free to focus on the animation
 #### **Animation**
 This animation is quite **clunky** with it not flowing as smoothly as I wanted it to be. The animation also used non-original assets within the animation I would have used custom-made assets using hand drawing or pixel drawing to make it look better with a more of my own finish upon the animation. My Try Surfing animation was also very static, which displeased me, however, it would have taken a lot of effort to draw out each frame of the Dolphin this made it look very unprofessional but it turned out to what my desires were.
 
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/TrySurfingImage.PNG?raw=true "Try Surfing Animation")
+
 #### **Design Thoughts**
 When I was designing this animation I was thinking how could I make it so users would be appealed by my animation not for how unproffessional it looks and embracing schadenfreude instead for how proffessional it looked, however, to make original assets deemed quite a challenge due to how inconsitant a white board pen is: to make the animation I used a whiteboard and a whiteboard pen for the boldness of the lines and the whiteness of the background it would be easy to take the white out without losing any of the actual image. This didn't turn out so well considering that drawing with a whiteboard pen is difficult to potray details so it turned out to be very heavy and made the image not look the best as well as the previous ink on the board was not rubbed of to 100% so there were some random dots of black, which made it look unproffesional. 
 
 The next stage was the capturing of the image, which was me using an Iphone 6s+ 12mp camera this was a bad choice due to the lack of pixels that were missed out due to lack of quality in the camera. Then imported into photoshop where I would get rid of the white background and fill the outline in and fill the image with the desired colours, which worked well due to it now looking like a well made graphic, however due to the static nature of the animation it looked odd.
 
-![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/TrySurfingImage.PNG?raw=true "Try Surfing Animation")
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign1.png?raw=true "Design 1")
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign2.png?raw=true "Design 2")
+![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign3.png?raw=true "Design 3")
+
 
 # 1.7
 

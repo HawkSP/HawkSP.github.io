@@ -351,8 +351,16 @@ When I was designing this animation I was thinking how could I make it so users 
 
 The next stage was the capturing of the image, which was me using an Iphone 6s+ 12mp camera this was a bad choice due to the lack of pixels that were missed out due to lack of quality in the camera. Then imported into photoshop where I would get rid of the white background and fill the outline in and fill the image with the desired colours, which worked well due to it now looking like a well made graphic, however due to the static nature of the animation it looked odd.
 
+Design 1
+
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign1.png?raw=true "Design 1")
+
+Design 2
+
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign2.png?raw=true "Design 2")
+
+Design 3
+
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign3.png?raw=true "Design 3")
 
 

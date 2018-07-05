@@ -300,7 +300,7 @@ and decreasing in size (using WebKit).
 The Navigation screen is intergrated into every page and can be accessed with the "Open Nav Button" ("☰ open nav")  
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/OpenNav.png?raw=true "Open Nav Button")
 
-The Navigation Screen is made from **_Java Script_** and **_CSS_** to make a professional looking **_Navigation Screen_**. When clicked on a page it will redirect you to that page using scripts and **_HTML_**. I made it as an overlay instead of a page because I wanted to make it **_Quicker_** loading times instead of being redirected to another page, which will reduce **_Retention Times_** due to if they have slow computers or internet as well I wanted to create an effect where you will be able to see the page in the background so it feels more like a website that is developed well. I have also added on the home page links to **Activites Movie**, **Try Surfing**, **New This Year**, **Find Out More**, **Page Info** and **FAQs** 
+The Navigation Screen is made from **_Java Script_** and **_CSS_** to make a professional looking **_Navigation Screen_**. When clicked on a page it will redirect you to that page using scripts and **_HTML_**. I made it as an overlay instead of a page because I wanted to make it **_Quicker_** loading times instead of being redirected to another page, which will reduce **_Retention Times_** due to if they have slow computers or internet as well I wanted to create an effect where you will be able to see the page in the background so it feels more like a website that is developed well. I have also added on the home page links to **Activites Movie**, **Try Surfing**, **New This Year**, **Find Out More**, **Page Info** and **FAQs** next time I would make a more interactive "Nav Screen" with more usability.
 
 # 1.5
 
@@ -312,7 +312,7 @@ The activities movie was made in VEGAS Pro 15 Suite
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/vegas-pro-15-suite-screenshot-int.jpg?raw=true "VEGAS Pro 15")
 VEGAS Pro 15 Suite can work with low-resolution audio or pristine 24-bit, 192kHz high-resolution audio and everything in between
 mono, stereo, or 5.1 surround sound. Also, you can use plugins and effects from leading developers Boris FX, HitFilm, and NewBlueFX.
-These helped me in my development as they helped with the video due to its use of effect I could use. My options were also to use after Effects from Adobe or DaVinci Resolve but I am not as skilled in them but I am in Sony Vegas.
+These helped me in my development as they helped with the video due to its use of effect I could use. My options were also to use after Effects from Adobe or DaVinci Resolve but I am not as skilled in them but I am in Sony Vegas. If I was to redesign the **Activites Movie** I would take a more refined approach with the use of origninal footage and original music due to my skills in music producing I would make a track specifically for the activities movie (you can see my tracks at [``SoundCloud``](https://www.soundcloud.com/hawksp).
 
 # Boris FX
 The Sapphire Render Unit enhances your work with the highest-quality textures, gradients, cloud, sky, and lighting effects.
@@ -343,6 +343,11 @@ and they handled the HTML5 and CSS3 so that I was free to focus on the animation
 
 #### **Animation**
 This animation is quite **clunky** with it not flowing as smoothly as I wanted it to be. The animation also used non-original assets within the animation I would have used custom-made assets using hand drawing or pixel drawing to make it look better with a more of my own finish upon the animation. My Try Surfing animation was also very static, which displeased me, however, it would have taken a lot of effort to draw out each frame of the Dolphin this made it look very unprofessional but it turned out to what my desires were.
+
+#### **Design Thoughts**
+When I was designing this animation I was thinking how could I make it so users would be appealed by my animation not for how unproffessional it looks and embracing schadenfreude instead for how proffessional it looked, however, to make original assets deemed quite a challenge due to how inconsitant a white board pen is: to make the animation I used a whiteboard and a whiteboard pen for the boldness of the lines and the whiteness of the background it would be easy to take the white out without losing any of the actual image. This didn't turn out so well considering that drawing with a whiteboard pen is difficult to potray details so it turned out to be very heavy and made the image not look the best as well as the previous ink on the board was not rubbed of to 100% so there were some random dots of black, which made it look unproffesional. 
+
+The next stage was the capturing of the image, which was me using an Iphone 6s+ 12mp camera this was a bad choice due to the lack of pixels that were missed out due to lack of quality in the camera. Then imported into photoshop where I would get rid of the white background and fill the outline in and fill the image with the desired colours, which worked well due to it now looking like a well made graphic, however due to the static nature of the animation it looked odd.
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/TrySurfingImage.PNG?raw=true "Try Surfing Animation")
 

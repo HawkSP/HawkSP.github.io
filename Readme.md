@@ -351,15 +351,15 @@ When I was designing this animation I was thinking how could I make it so users 
 
 The next stage was the capturing of the image, which was me using an Iphone 6s+ 12mp camera this was a bad choice due to the lack of pixels that were missed out due to lack of quality in the camera. Then imported into photoshop where I would get rid of the white background and fill the outline in and fill the image with the desired colours, which worked well due to it now looking like a well made graphic, however due to the static nature of the animation it looked odd.
 
-Design 1
+#### **Design 1**
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign1.png?raw=true "Design 1")
 
-Design 2
+#### **Design 2**
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign2.png?raw=true "Design 2")
 
-Design 3
+#### **Design 3**
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Documents/SplashOut%20Design%20Images/SplashOutSurfingDesign3.png?raw=true "Design 3")
 
@@ -370,7 +370,11 @@ Design 3
 
 ### **New This Year**
 
+#### **The Code:**
+I did this using a JavaScript function I made called showSlides that will show the slides after a certain time it will change the image after every 2000 ms, which is around 2 seconds. The CSS used adds 3 dots at the bottom, which will show progression of the images 1/3, 2/3 and 3/3. The HTML5 I used is to position it on the page and combining the CSS and JavaScript together. Also there is a link to the activites when you click on them.
 
+#### **The Images**
+The images that I used are very high quality been 4k (4096x2304) and they were optimized to a certain extent but but are poorly optimized, however, I didn't want to lose the quality of the images so I left them but loading times are heavily extended.
 
 ![alt text](https://github.com/HawkSP/HawkSP.github.io/blob/master/Images/NewThisYearReadmeImages/Examples/Combined/PNG/NewThisYearCombined.png?raw=true "New This Year Flow")
 

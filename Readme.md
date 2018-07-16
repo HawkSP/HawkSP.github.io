@@ -384,3 +384,8 @@ The images that I used are very high quality been 4k (4096x2304) and they were o
 
 ### **Find Out More**
 
+#### **The Code:**
+For this page I used a combination of HTML,CSS and JS like usual but this time I used some Google APIs (Application Programming Interface) specifically the Google Maps API, to show the location of the place. Then I used a form made on HTML and CSS that consisted of a dropdown box to show, which activity you thought was your favourite and you will be taken to the activity you picked on click. Also there is some space for you to type you name and your email and message and when you click the submit button it will launch an action_page.php, which due to the non-commercial use of this page consists of no database linked to it. But if I was to do it again it will utillise a working version. If I was to change anything I would change the usabillty of it and flesh it out with features .
+
+#### **APIs**
+The use for the APIs for this brouchure was essential because without them it wouldn't look fleshed out and because of this map a user would know the location of the company. 

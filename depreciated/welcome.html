@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin">
+    <meta charset="utf-8">
+    <meta name="PrimeStudios" content="Elliott Mitchell" />
+    <meta name="Welcome Screen" content="1" />
+    <style>
+        /* Background Formating */
+        .background {
+            width: 100%;
+            height: 100%;
+            background: #333;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        /* Body Formating */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        /* Welcome Text Formating */
+        .welcome {
+            font-size: 100px;
+            color: darkturquoise;
+            margin: 150px auto 50px auto;
+            text-shadow: -5px 10px 10px #444;
+            text-align: center;
+            font-family: "Ubuntu";
+        }
+        /* splashoutpage Formating */
+        .splashoutpage {
+            font-size: 25px;
+            color: darkturquoise;
+            text-shadow: -5px 10px 10px #444;
+            text-align: center;
+            font-family: "Ubuntu";
+        }
+        /* Continue Formating */
+        .waitingforuser {
+            font-size: 27.5px;
+            color: rgb(154, 220, 170);
+            font-family: "Ubuntu";
+            text-shadow: -5px 10px 10px #444;
+            text-align: center;
+            margin: 130px auto;
+
+        }
+        /* Animtaion Formating */
+        @-webkit-keyframes bluePulse {
+            from {
+                background-color: darkturquoise;
+                -webkit-box-shadow: 0 0 9px #333;
+            }
+            50% {
+                background-color: #00d8db;
+                -webkit-box-shadow: 0 0 18px #00fbff;
+            }
+            to {
+                background-color: darkturquoise;
+                -webkit-box-shadow: 0 0 9px #333;
+            }
+        }
+        /* Button Formating */
+        .buttons {
+            text-align: center;
+            height: 10px;
+            align-content: center;
+
+        }
+
+
+        .button {
+            -webkit-animation-name: bluePulse;
+            -webkit-animation-duration: 1s;
+            -webkit-animation-iteration-count: infinite;
+            font-family: "Ubuntu";
+            font-size: 30px;
+            text-align: center;
+            margin-right: 0.5em;
+            border-radius: 10px;
+            margin: auto;
+            text-decoration: none;
+            color: black;
+
+
+
+        }
+
+        /*This is for three dots*/
+
+        .spinner {
+            margin: 100px auto 0;
+            width: 70px;
+            text-align: center;
+        }
+
+        .spinner>div {
+            width: 18px;
+            height: 18px;
+            background-color: darkturquoise;
+
+            border-radius: 100%;
+            display: inline-block;
+            -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+            animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+        }
+
+        .spinner .bounce1 {
+            -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s;
+        }
+
+        .spinner .bounce2 {
+            -webkit-animation-delay: -0.16s;
+            animation-delay: -0.16s;
+        }
+        /* Spinner Animation Formating */
+        @-webkit-keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0)
+            }
+            40% {
+                -webkit-transform: scale(1.0)
+            }
+        }
+
+        @keyframes sk-bouncedelay {
+            0%,
+            80%,
+            100% {
+                -webkit-transform: scale(0);
+                transform: scale(0);
+            }
+            40% {
+                -webkit-transform: scale(1.0);
+                transform: scale(1.0);
+            }
+        }
+        /* Hiding the audio within the page */
+        audio {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            z-index: -1;
+        }
+    </style>
+</head>
+<title>SplashOut</title>
+
+<body>
+
+<audio controls autoplay loop>
+  <source src="SplashNoise.mp3" type="audio/mpeg">
+</audio>
+    
+    <h1 class="welcome">Welcome</h1>
+    <h3 class="splashoutpage"> To The Splash Out Page</h3>
+    <h2 class="waitingforuser">To Proceed Click Continue</h2>
+    <div class="background"></div>
+    <div class="buttons">
+        <a class="button" href="SplashOutPages/home.html">Continue</a>
+    </div>
+    <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+    </div>
+
+</body>
+</html>

@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Elliott John Mitchell — Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Elliott John Mitchell
+Elliott John Mitchell
+Neuroinformatics Researcher
 
 Show Contacts
 
 Email
-richard@example.com
+elliott.mitchell10@gmail.com
 
 Phone
-+1 (213) 352-2795
++44 7883 338618
 
-Birthday
-June 23, 1982
+Degree
+BA (Hons) Music: Production, Performance and Enterprise — First Class Honours, University of Westminster (2024)
 
 Location
-Sacramento, California, USA
+Rotherham, UK
 
 # navbar
 
@@ -30,61 +30,62 @@ Contact
 
 # about
 
-About me
+About Me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am a neuroinformatics researcher specialising in brain-computer interfaces, neural dynamics, and perceptually-aligned AI systems. My work bridges computational neuroscience with deep learning to build AI that perceives temporal structure through oscillatory dynamics — the same mechanisms humans use to process rhythm, music, and motion.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+As founder of DedAI-Neurodynamics, I developed a computational framework implementing Neural Resonance Theory models (ASHLE, GrFNN) for real-time rhythm perception, achieving 94.37% Phase-Locking Value retention in a trained TCN surrogate with sub-50 ms latency. I replicated the musician/non-musician entrainment difference (p=0.0158) and extended the framework to cross-modal visual perception (r=0.91). My research was presented at Queen Mary University of London's DMRN+18 conference, and I have consulted with Dr Marcus Pearce (QMUL) on music cognition methodology.
+
+I hold a First Class Honours degree in Music: Production, Performance and Enterprise from the University of Westminster, where I conducted EEG research examining differential emotional processing between musicians and non-musicians under ethics approval ETH2324-0744. I am applying to Queen Mary University of London's MSc Sound and Music Computing (AI and Music Data Science stream) for September 2026, with the intention of continuing to doctoral research in neural dynamics and perceptually-grounded AI.
 
 
 ## service
 
-What i'm doing
+Research Interests
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = Neural Dynamics Icon
+Neural Dynamics
+Oscillatory entrainment and synchronisation mechanisms underlying the perception of temporal structure in auditory and visual stimuli.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+alt = BCI Icon
+Brain-Computer Interfaces
+Real-time EEG signal processing for closed-loop systems that map cognitive biomarkers to computational parameters.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+alt = Cross-modal Icon
+Cross-Modal Perception
+Multimodal signal processing and self-supervised learning for cross-modal representation between auditory and visual domains.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = Perceptual AI Icon
+Perceptually-Aligned AI
+Building AI systems grounded in biophysical models of human perception using physics-informed neural networks.
 
 
 ## testimonials
 
-Testimonials
+Publications & Presentations
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = DedAI Paper
+DedAI: AI-Driven Music Composition (2024)
+Advanced AI-Driven Music Composition Informed by EEG-Based Emotional Analysis. Undergraduate Research Paper, University of Westminster.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = EEG Study
+EEG Study: Musicians vs Non-Musicians (2024)
+Measuring Music's Emotional Impact with EEG: A Study on Musicians and Non-Musicians. Undergraduate Research Thesis, University of Westminster. Supervisor: Dr Jasmine Taylor.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = DMRN+18
+DMRN+18 @ Queen Mary (2023)
+Orchestrating Emotions: The Intersection of AI, Neuroscience & Music. 20-minute invited talk at the Digital Music Research Network Conference, Queen Mary University of London.
 
 
 ## clients
 
-Clients
+Key Research Metrics
 
-alt = client logo
-
+94.37% — PLV Retention
+<50ms — Real-time Latency
+r=0.91 — Cross-modal Correlation
+p=0.0158 — Musician/Non-Musician Difference
+14-ch — EEG Channels
 
 
 # resume
@@ -93,43 +94,50 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+BA (Hons) Music: Production, Performance and Enterprise — First Class Honours
+University of Westminster | 2021 – 2024
+Final Major Project (73%): Early version of DedAI — AI-driven music composition system using real-time EEG signal processing.
+Research Project (74%): Quasi-experimental EEG study on emotional processing of music in musicians vs non-musicians (supervisor: Dr Jasmine Taylor).
+Relevant modules: Advanced Audio Production, Music Production Studio and Live, Recording Techniques, Creative Identities and Making Digital Content, The Freelance Music Professional.
+Self-directed study: Digital Signal Processing, Computational Neuroscience, Machine Learning, Neural Resonance Theory.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Research Experience
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+DedAI-Neurodynamics — Founder & Lead Researcher
+2023 – Present
+Developed a computational framework bridging Neural Resonance Theory and deep learning to build AI systems that perceive temporal structure through oscillatory dynamics. The project implements biophysically-grounded models for rhythm perception and translates EEG-derived emotional states into generative music synthesis.
+- Implemented ASHLE (Adaptive Synchronisation with Hebbian Learning and Elasticity) and GrFNN (Gradient Frequency Neural Network) models for oscillatory entrainment and beat perception
+- Trained a Temporal Convolutional Network (TCN) surrogate with physics-informed loss achieving 94.37% Phase-Locking Value retention, enabling real-time inference while preserving neural entrainment dynamics
+- Built a closed-loop Brain-Computer Music Interface (BCMI) using Emotiv EPOC X (14-channel EEG), mapping cognitive biomarkers to oscillator parameters in real-time (<50ms latency)
+- Developed PyNRT — an open-source Python toolkit for simulating Hopf oscillators, gradient frequency neural networks, and adaptive oscillator models
+- Extended framework to cross-modal visual perception, demonstrating video-to-audio entrainment where motion energy drives ASHLE rhythm synthesis (r=0.91 correlation for periodic stimuli)
+- Created digital twin simulations of EEG hardware for algorithm prototyping without physical sensors
 
-Experience
+EEG Study: Musicians vs Non-Musicians — Primary Investigator
+2023 – 2024
+Conducted a mixed-methods quasi-experimental study examining differential emotional processing of music between musicians and non-musicians using EEG. Grounded in Meyer's Expectancy Theory and Juslin & Västfjäll's BRECVEMA model of music-induced emotions.
+- Collected and analysed 14-channel EEG data from 6 participants using Emotiv EPOC X in naturalistic listening conditions; processed with MNE-Python, ICA artifact rejection, and FFT band power analysis
+- Found significant beta wave (12–30 Hz) differences in frontal regions (AF3, AF4, F3, F4, F7, F8) indicating heightened cognitive engagement in musicians during musical expectation violation (p=0.0158)
+- Created visualisations including topographical brain maps, radar graphs, and hierarchical edge bundling diagrams using PyVis and Matplotlib
+- Consulted with Dr Marcus Pearce (QMUL) on methodology and theoretical framework; discussion informed integration of schematic and dynamic expectation mechanisms
+- Obtained full ethics approval (ETH2324-0744) from the University of Westminster Research Ethics Committee
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Professional Experience
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Pinnacle Crew — Freelance AV Crew / Technical Assistant
+2021 – 2024
+Assisted with AV setup, signal routing, and system configuration for live events at London venues. Worked under tight turnaround times across multiple cross-functional crews, gaining practical exposure to live sound, staging, and event production workflows.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Macoral Services — AI & Web Development Consultant
+2022 – 2024
+Developed and deployed a custom AI chatbot and quote calculator, achieving approximately 30% reduction in client response time. Translated complex technical requirements into accessible business tools for non-technical stakeholders.
 
-My skills
+Technical Skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
+Programming: Python (PyTorch, NumPy, SciPy, MNE-Python), C++ (real-time DSP), JavaScript/TypeScript, MATLAB
+Signal Processing: EEG acquisition, spectral analysis (FFT, wavelets), ICA, bandpass filtering, Phase-Locking Value computation, event-related potentials, oscillatory dynamics modelling
+Machine Learning: Temporal Convolutional Networks (TCNs), Physics-Informed Neural Networks (PINNs), self-supervised learning, multimodal representation learning, time-series classification, generative models
+Tools & Platforms: Git, Docker, Jupyter, VS Code, React, Three.js, Node.js, Emotiv SDK, OpenBCI, PyVis, Matplotlib, librosa, soundfile
 
 
 # portfolio
@@ -137,104 +145,71 @@ WordPress
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Research
+Presentations
+Software
 
 Select category
 All
-Web design
-Applications
-Web development
+Research
+Presentations
+Software
 
-alt = finance
-Finance
-Web development
+alt = DedAI Research Paper
+DedAI: Advanced AI-Driven Music Composition Informed by EEG-Based Emotional Analysis
+Research
 
-alt = orizon
-Orizon
-Web development
+alt = DMRN+18 Talk at Queen Mary University of London
+DMRN+18: Orchestrating Emotions — The Intersection of AI, Neuroscience & Music
+Presentations
 
-alt = fundo
-Fundo
-Web design
+alt = DedAI Platform
+DedAI-Neurodynamics — Neural Music Generation with EEG Integration
+Software
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = Live Demo
+Live Demo: Real-time EEG to Music Generation
+Presentations
 
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
+alt = PyNRT Toolkit
+PyNRT — Python Neural Resonance Theory Toolkit
+Software
 
 
 # blog
 
-Blog
+Blog & Updates
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
+alt = DedAI Website
+Project
+2024
+DedAI-Neurodynamics Project Website
+Updates on neural music generation research and beta access for the DedAI platform.
 
 
 # contact
 
 Contact
 
-Contact Form
+Get in Touch
+
+I am applying to QMUL's MSc Sound and Music Computing for September 2026 and am open to research collaborations, conversations, and opportunities in neural dynamics, brain-computer interfaces, and perceptually-aligned AI. Feel free to get in touch.
+
+Email: elliott.mitchell10@gmail.com
+LinkedIn: linkedin.com/in/dedeye
+GitHub: github.com/HawkSP
+Location: Rotherham, UK
 
 Full name
 Email address
 Your Message
 
 Send Message
+
+Academic References
+
+Hussein Boon — Principal Lecturer, University of Westminster
+Supervisor for Final Major Project; advised on DedAI development and recommended submission to DMRN+18.
+
+Dr Jasmine Taylor — Senior Lecturer, Westminster School of Arts
+Supervised EEG research thesis: "Measuring Music's Emotional Impact with EEG: A Study on Musicians and Non-Musicians."

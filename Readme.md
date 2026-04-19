@@ -27,7 +27,7 @@ Open the `index.html` file in your browser to view the portfolio.
 
 ### About Me
 
-An ambitious and innovative professional with a strong background in AI, computer science, and team leadership. Founder of DedAI, an AI music startup, and currently pursuing a Bachelor's degree in Music Performance, Business, and Production.
+An ambitious and innovative professional with a strong background in AI, computer science, and team leadership. Founder of DedAI, an AI music startup, and currently pursuing a Bachelor's degree in Music Performance, Enterprise, and Production.
 
 ### Services
 
